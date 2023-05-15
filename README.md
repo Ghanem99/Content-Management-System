@@ -5,4 +5,4 @@ The idea of the project is to have private web pages, which administrators can u
 
 <h3> Here is the blueprint of the application: </h3>
 
-![image](https://github.com/Ghanem99/Content-Management-System/assets/93198762/bbb9dbcf-797c-46af-9d7f-4fc3d260f1c4)
+![image](https://github.com/Ghanem99/Content-Management-System/assets/93198762/9c479d29-c680-497e-a3c6-e71e49c59dfd)
